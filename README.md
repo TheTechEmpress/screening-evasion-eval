@@ -24,6 +24,6 @@ Nucleic acid synthesis screening is a computational problem: sequence matching, 
 
 ## Key findings
 
-*[Fill in after running the evaluation. Even preliminary results are valuable.]*
+*[Working on it]*
 
 ## Repository structure
