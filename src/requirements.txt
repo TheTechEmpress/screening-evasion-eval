@@ -1,0 +1,4 @@
+biopython==1.83
+pandas==2.2.2
+matplotlib==3.8.4
+requests==2.32.3
